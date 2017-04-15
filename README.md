@@ -76,14 +76,14 @@
 
 	*****************************************************************
 
-	     ~ Bamboo_Dojo, 2017, by Thegoban, mateomanu@yahoo.es ~
+		    ~ Bamboo_Dojo, 2017, by Thegoban ~
 
 	*****************************************************************
 	
 		   Chinese Instrumental Music by JustVeee.
-			   Under Creative Commons.
+			 Under Creative Commons.
 
-		  https://creativecommons.org/licenses/by/3.0/
+		 https://creativecommons.org/licenses/by/3.0/
 
 	*****************************************************************
 

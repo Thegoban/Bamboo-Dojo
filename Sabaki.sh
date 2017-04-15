@@ -6,7 +6,7 @@
 			
 			
 			
-~/go_engines/sabaki-v0.21.0-linux-x64.AppImage > /dev/null 2>&1&
+~/sabaki-v0.21.0-linux-x64.AppImage > /dev/null 2>&1&
 
 
 

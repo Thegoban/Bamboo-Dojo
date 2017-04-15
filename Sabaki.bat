@@ -10,7 +10,7 @@
 :: and by commenting out any of the next two below sections.
 			
  			
-			start %appdata%\Sabaki\music\chinese.mp3 /min
+			start %appdata%\Sabaki\music\chinese.ogg /min
 			timeout /t 3 /nobreak > NUL
 
 

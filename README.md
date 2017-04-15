@@ -1,8 +1,8 @@
 # Sbaki-Bamboo-Dojo
                 
                 
-            Bamboo_Dojo: Sabakis theme From bamboo
-                 since kaya is so expensive!
+                 Bamboo_Dojo: Sabakis theme From bamboo
+                       since kaya is so expensive!
 
 	
 	I have no idea of playing Go but it seems to be so mentally 
@@ -76,18 +76,18 @@
 
 	*****************************************************************
 
-		   ~ Bamboo_Dojo, 2017, by Thegoban, mateomanu@yahoo.es ~
+	     ~ Bamboo_Dojo, 2017, by Thegoban, mateomanu@yahoo.es ~
 
 	*****************************************************************
-		   
-		          Chinese Instrumental Music by JustVeee.
-				              Under Creative Commons.
+	
+		   Chinese Instrumental Music by JustVeee.
+			   Under Creative Commons.
 
-	           https://creativecommons.org/licenses/by/3.0/
+		  https://creativecommons.org/licenses/by/3.0/
 
 	*****************************************************************
 
-							             DICLAIMER
+				DICLAIMER
                            
 
 	Again, as said before it's a theme made for my sons, you know 

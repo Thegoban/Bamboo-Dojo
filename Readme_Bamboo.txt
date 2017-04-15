@@ -9,7 +9,7 @@
 	healthy that I'm making a great effort to get my sons interested
 	on it. That is the main reason why I'm making a theme for 
 	Sabaki. It has been much fun in making it, but I'm a lawyer, not
-    a developer!.
+	a developer!.
 
 	I started this theme with the intention of giving it some 
 	oriental flavor. Maybe (hopefully) it´s not a complete shame (at

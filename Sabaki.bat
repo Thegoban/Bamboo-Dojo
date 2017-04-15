@@ -26,7 +26,7 @@
 			
 			
 			
-:: Uncomment this to hear to  a radio station, you can find IPs of
+:: Uncomment this to listen to radio, you can find IPs of
 :: many of them  available  here:  https://www.xatworld.com/radio-
 :: search/, default is a traditional Chinese one.
 			

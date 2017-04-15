@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg38"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="MI_black_Stone.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs42">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5193">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop5189" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop5191" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4923">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4919" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4921" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter89">
+      <feGaussianBlur
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         id="feGaussianBlur87" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix91" />
+      <feGaussianBlur
+         id="feGaussianBlur93"
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix95" />
+      <feGaussianBlur
+         id="feGaussianBlur97"
+         stdDeviation="0.01 0.01"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter89-6">
+      <feGaussianBlur
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         id="feGaussianBlur87-1" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix91-2" />
+      <feGaussianBlur
+         id="feGaussianBlur93-9"
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix95-9" />
+      <feGaussianBlur
+         id="feGaussianBlur97-7"
+         stdDeviation="0.01 0.01"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter89-1">
+      <feGaussianBlur
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         id="feGaussianBlur87-3" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix91-7" />
+      <feGaussianBlur
+         id="feGaussianBlur93-1"
+         stdDeviation="0.01 0.01"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix95-3" />
+      <feGaussianBlur
+         id="feGaussianBlur97-9"
+         stdDeviation="0.01 0.01"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4923"
+       id="linearGradient4925"
+       x1="1115.2842"
+       y1="1098.4954"
+       x2="167.31104"
+       y2="-543.44232"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5193"
+       id="linearGradient5195"
+       x1="1011.7595"
+       y1="1047.8188"
+       x2="356.3017"
+       y2="23.394787"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="999"
+     inkscape:window-height="1008"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="0.23046875"
+     inkscape:cx="606.65717"
+     inkscape:cy="367.23961"
+     inkscape:window-x="912"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
+  <ellipse
+     style="fill:#cccccc;fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-6)"
+     id="path61-6"
+     cx="512.56976"
+     cy="513.90289"
+     rx="509.17114"
+     ry="509.98917"
+     transform="matrix(0.99357969,0,0,0.99357969,3.6905819,3.3575297)" />
+  <ellipse
+     style="fill:url(#linearGradient4925);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89)"
+     id="path61"
+     cx="512.56976"
+     cy="513.90289"
+     rx="509.17114"
+     ry="509.98917"
+     transform="matrix(0.99958609,0,0,0.99958609,0.2850971,-1.266944)" />
+  <ellipse
+     style="fill:url(#linearGradient5195);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-1)"
+     id="path61-7"
+     cx="512.56976"
+     cy="513.90289"
+     rx="509.17114"
+     ry="509.98917"
+     transform="matrix(0.99958609,0,0,0.99958609,-0.35760738,-1.6901889)" />
+</svg>

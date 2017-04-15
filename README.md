@@ -1,4 +1,4 @@
-# Sbaki-Bamboo-Dojo
+# Bamboo-Dojo
                 
                 
                  Bamboo_Dojo: Sabakis theme From bamboo

@@ -20251,9 +20251,9 @@
      inkscape:window-height="1017"
      id="namedview57"
      showgrid="false"
-     inkscape:zoom="0.33492279"
-     inkscape:cx="575.0684"
-     inkscape:cy="515.38633"
+     inkscape:zoom="1.8946094"
+     inkscape:cx="1664.7939"
+     inkscape:cy="480.59311"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -20962,70 +20962,74 @@
       </g>
     </g>
   </g>
-  <ellipse
-     style="opacity:1;fill:#7a4114;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05170321;stroke-opacity:1"
-     id="path74-0-9-8-5-7-5-0"
-     cx="-271.9375"
-     cy="-480.65576"
-     rx="119.50607"
-     ry="117.93259"
-     transform="rotate(-171.16612)" />
-  <ellipse
-     style="opacity:1;fill:url(#linearGradient17344-0-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05170321;stroke-opacity:1"
-     id="path74-0-9-8-5-1-3"
-     cx="-276.10852"
-     cy="-480.97876"
-     rx="119.50607"
-     ry="117.93259"
-     transform="rotate(-171.16612)" />
-  <path
-     style="opacity:1;fill:#803300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96076316;stroke-opacity:1"
-     d="m 212.48275,413.80846 c 37.6816,4.17021 71.0892,28.45947 86.1297,62.62131 6.3455,14.41257 7.6954,22.08715 7.1816,40.82949 -0.5297,19.31938 -2.1458,26.04323 -9.8775,41.09336 -29.4073,57.24319 -105.5924,75.25807 -159.9244,37.81607 -42.166302,-29.05824 -56.253302,-81.80745 -33.6759,-126.10091 19.9131,-39.06647 63.6588,-61.40633 110.1665,-56.25932 z m -34.5862,15.37886 c -33.2357,7.3003 -59.6095,31.68004 -69.1539,63.92526 -3.3178,11.20897 -3.7934,32.23341 -0.985,43.54664 6.6262,26.69278 25.9321,50.11727 50.4778,61.24636 14.2928,6.48038 20.0145,7.67795 38.3991,8.03716 19.8977,0.38877 26.5277,-0.87999 41.9922,-8.03595 22.6732,-10.49163 39.5302,-28.62512 47.6985,-51.3105 12.7383,-35.37712 1.3638,-74.76119 -28.5934,-99.00417 -10.8143,-8.7515 -28.8082,-16.86945 -43.0105,-19.40417 -8.6682,-1.54703 -27.567,-1.03415 -36.8248,0.99937 z"
-     id="path3922-1-9-0-3-8"
-     inkscape:connector-curvature="0" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:58.55728149px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.46393204"
-     x="-253.96803"
-     y="-461.33273"
-     id="text7094"
-     transform="scale(-1)"><tspan
-       sodipodi:role="line"
-       id="tspan7092"
-       x="-253.96803"
-       y="-461.33273"
-       style="stroke-width:1.46393204">围棋</tspan></text>
-  <ellipse
-     style="fill:#cccccc;fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-6-42-9-00-0-6)"
-     id="path61-6-8-9-9-1-7"
-     cx="512.56976"
-     cy="513.90289"
-     rx="509.17114"
-     ry="509.98917"
-     transform="matrix(-0.05450406,-0.00127309,0.00127309,-0.05450406,211.10661,475.54877)" />
-  <ellipse
-     style="fill:url(#linearGradient20426);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-3-5-9-7-7-80)"
-     id="path61-8-1-3-8-2-4"
-     cx="512.56976"
-     cy="513.90289"
-     rx="509.17114"
-     ry="509.98917"
-     transform="matrix(-0.05483355,-0.00128078,0.00128078,-0.05483355,211.2872,475.80681)" />
   <g
-     id="g458-5-3-4-19-3"
-     transform="matrix(-0.05485625,-0.00128131,0.00128131,-0.05485625,211.30474,475.73768)">
+     id="g10063"
+     transform="rotate(-180,196.93329,517.19544)">
     <ellipse
-       transform="matrix(0.99958609,0,0,0.99958609,-0.35760738,-1.6901889)"
+       transform="rotate(-171.16612)"
+       ry="117.93259"
+       rx="119.50607"
+       cy="-480.65576"
+       cx="-271.9375"
+       id="path74-0-9-8-5-7-5-0"
+       style="opacity:1;fill:#7a4114;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05170321;stroke-opacity:1" />
+    <ellipse
+       transform="rotate(-171.16612)"
+       ry="117.93259"
+       rx="119.50607"
+       cy="-480.97876"
+       cx="-276.10852"
+       id="path74-0-9-8-5-1-3"
+       style="opacity:1;fill:url(#linearGradient17344-0-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05170321;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3922-1-9-0-3-8"
+       d="m 212.48275,413.80846 c 37.6816,4.17021 71.0892,28.45947 86.1297,62.62131 6.3455,14.41257 7.6954,22.08715 7.1816,40.82949 -0.5297,19.31938 -2.1458,26.04323 -9.8775,41.09336 -29.4073,57.24319 -105.5924,75.25807 -159.9244,37.81607 -42.166302,-29.05824 -56.253302,-81.80745 -33.6759,-126.10091 19.9131,-39.06647 63.6588,-61.40633 110.1665,-56.25932 z m -34.5862,15.37886 c -33.2357,7.3003 -59.6095,31.68004 -69.1539,63.92526 -3.3178,11.20897 -3.7934,32.23341 -0.985,43.54664 6.6262,26.69278 25.9321,50.11727 50.4778,61.24636 14.2928,6.48038 20.0145,7.67795 38.3991,8.03716 19.8977,0.38877 26.5277,-0.87999 41.9922,-8.03595 22.6732,-10.49163 39.5302,-28.62512 47.6985,-51.3105 12.7383,-35.37712 1.3638,-74.76119 -28.5934,-99.00417 -10.8143,-8.7515 -28.8082,-16.86945 -43.0105,-19.40417 -8.6682,-1.54703 -27.567,-1.03415 -36.8248,0.99937 z"
+       style="opacity:1;fill:#803300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96076316;stroke-opacity:1" />
+    <text
+       transform="rotate(90)"
+       id="text7094"
+       y="-172.24492"
+       x="463.15164"
+       style="font-style:normal;font-weight:normal;font-size:58.55728149px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.46393204"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.46393204"
+         y="-172.24492"
+         x="463.15164"
+         id="tspan7092"
+         sodipodi:role="line">围棋</tspan></text>
+    <ellipse
+       transform="matrix(-0.05450406,-0.00127309,0.00127309,-0.05450406,211.10661,475.54877)"
        ry="509.98917"
        rx="509.17114"
        cy="513.90289"
        cx="512.56976"
-       id="path61-7-10-6-8-6-5"
-       style="fill:url(#linearGradient20428);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-1-3-5-8-0-6)" />
+       id="path61-6-8-9-9-1-7"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-6-42-9-00-0-6)" />
+    <ellipse
+       transform="matrix(-0.05483355,-0.00128078,0.00128078,-0.05483355,211.2872,475.80681)"
+       ry="509.98917"
+       rx="509.17114"
+       cy="513.90289"
+       cx="512.56976"
+       id="path61-8-1-3-8-2-4"
+       style="fill:url(#linearGradient20426);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-3-5-9-7-7-80)" />
+    <g
+       transform="matrix(-0.05485625,-0.00128131,0.00128131,-0.05485625,211.30474,475.73768)"
+       id="g458-5-3-4-19-3">
+      <ellipse
+         style="fill:url(#linearGradient20428);fill-opacity:1;stroke-width:1.36134374;filter:url(#filter89-1-3-5-8-0-6)"
+         id="path61-7-10-6-8-6-5"
+         cx="512.56976"
+         cy="513.90289"
+         rx="509.17114"
+         ry="509.98917"
+         transform="matrix(0.99958609,0,0,0.99958609,-0.35760738,-1.6901889)" />
+    </g>
   </g>
   <g
      id="g6782"
-     transform="rotate(-180,1762.5184,879.00148)">
+     transform="translate(-61.7136,-386.54976)">
     <g
        transform="translate(3035.6828,1310.8703)"
        id="g17355">
@@ -21052,20 +21056,20 @@
          inkscape:connector-curvature="0" />
     </g>
     <text
-       transform="scale(0.88935088,1.1244156)"
+       transform="matrix(0,0.88935088,-1.1244156,0,0,0)"
        id="text4194"
-       y="932.68384"
-       x="1962.2706"
+       y="-1574.8512"
+       x="1133.03"
        style="font-style:normal;font-weight:normal;font-size:52.82878113px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3207196"
        xml:space="preserve"><tspan
          style="stroke-width:1.3207196"
-         y="932.68384"
-         x="1962.2706"
+         y="-1574.8512"
+         x="1133.03"
          id="tspan4192"
          sodipodi:role="line">바둑</tspan></text>
   </g>
   <g
-     transform="matrix(-0.05159945,0,0,-0.05159945,1735.8392,692.14904)"
+     transform="matrix(0.05159945,0,0,0.05159945,1633.0054,659.77507)"
      id="g353-7-03-3">
     <ellipse
        transform="matrix(0.98765679,0,0,0.98765679,7.7303574,5.9397248)"

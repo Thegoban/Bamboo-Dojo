@@ -1,7 +1,7 @@
 # Bamboo-Dojo
                 
                 
-               Bamboo_Dojo: Sabakis theme From bamboo
+               Bamboo_Dojo: Sabaki theme From bamboo
                      since kaya is so expensive!
 
 	

@@ -1,8 +1,8 @@
 # Bamboo-Dojo
                 
                 
-                 Bamboo_Dojo: Sabakis theme From bamboo
-                       since kaya is so expensive!
+               Bamboo_Dojo: Sabakis theme From bamboo
+                     since kaya is so expensive!
 
 	
 	I have no idea of playing Go but it seems to be so mentally 

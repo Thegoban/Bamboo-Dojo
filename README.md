@@ -51,7 +51,7 @@
 	*****************************************************************
 
 	1.- If not done yet, navigate to %appdata%/sabaki and uncompress
-	the zip  there.
+	the zip  there. in Linux go to ~/.config/sabaki instead.
 
 	2.- Change the Sabaki.AppImage or sabaki.exe path if needed in
 	Sabaki.sh or Sabaki.bat (Linux or Windows), check music paths

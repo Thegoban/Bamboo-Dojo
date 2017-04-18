@@ -110,46 +110,19 @@ comment all this */
 hoshis are capricious an behave worse or better depending on the OS,
 the resolution, or on their own mood...who knows, I like them to be
 smaller, you can tweak sections below to accommodate them to your
-computer, commenting this and next section will make Sabaki use the
-original ones.*/
-
+computer, commenting this make Sabaki to use the original ones.*/
 					
-					
-					/*.goban .row li.hoshi::after {
-					content: '';
-					display: block;
-					position: absolute;
-					max-width: 8px;
-					max-height: 8px;
-					top:  55%;
-					left: 55%;
-					margin-top: calc(-.100em - 1px);
-					margin-left: calc(-.100em - 1px);
-					width: .19em;
-					height: .19em;
-					border-radius: .20em;
-					}*/
-					
-					
-
-/* If you prefer hoshis to be fixed to a specific size uncomment this
-section, I like this size, but you can replace all "6" with the
-desired value (the same for all), and all "2" with halve the value you
-have chosen instead of "6", AND don´t forget to COMMENT the section
-ABOVE for this to work!! */
-
-
-
 					 .goban .row li.hoshi::after {
 					content: '';
 					display: block;        
-					top:  56%;
-					left: 56%;
-					width: 6px;
-					height: 6px;
-					margin-top: calc(-3 - 1px);
-					margin-left: calc(-3 - 1px);
-					border-radius: 6;
+					top:  55.9%;
+					left: 55.9%;
+					width: 5px;
+					height: 5px;
+					margin-top: calc(-2.5 - 1px);
+					margin-left: calc(-2.5 - 1px);
+					border-radius: 5;
+					opacity: .6
 					}   
 
 					

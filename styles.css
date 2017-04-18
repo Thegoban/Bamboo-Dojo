@@ -53,7 +53,6 @@ comment both */
 
 
 
-
 					 
 					
 					 background-size: contain
@@ -109,7 +108,7 @@ comment all this */
 (un)commenting this section will turn defaults on/off at start up.
 hoshis are capricious an behave worse or better depending on the OS,
 the resolution, or on their own mood...who knows, I like them to be
-smaller, you can tweak sections below to accommodate them to your
+smaller, you can tweak this section to accommodate them to your
 computer, commenting this make Sabaki to use the original ones.*/
 					
 					 .goban .row li.hoshi::after {

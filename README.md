@@ -72,8 +72,18 @@
 
 	If you prefer to launch Sabaki without the music stuff run it as
 	usual.
-
-
+	
+	
+	
+	*****************************************************************
+	
+	Unfortunately this is the best I can do with my "expertise"
+	but it´s is enough for my purposes, so I consider this project
+	as "finished". If you improved it´s behabour, please let me Know.
+	The spirit of this theme is mainly to mantain lines as thiner as
+	possible and civilized small hoshi dots (as round as possible) that
+	stayed quiet in their place when resizing to any size.
+	
 	*****************************************************************
 
 		    ~ Bamboo_Dojo, 2017, by Thegoban ~
@@ -85,7 +95,8 @@
 
 		 https://creativecommons.org/licenses/by/3.0/
 
-	*****************************************************************
+	
+	
 
 				DICLAIMER
                            

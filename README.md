@@ -79,7 +79,9 @@
 	
 	Unfortunately this is the best I can do with my "expertise"
 	but it´s is enough for my purposes, so I consider this project
-	as "finished". If you improved it´s behabour, please let me Know.
+	as "finished", only changes will be made if it performs very bad
+	in Linux (last changes not tested).
+	If you improved it´s behabour, please let me Know.
 	The spirit of this theme is mainly to mantain lines as thiner as
 	possible and civilized small hoshi dots (as round as possible) that
 	stayed quiet in their place when resizing to any size.

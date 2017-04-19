@@ -109,7 +109,7 @@ comment all this */
 hoshis are capricious an behave worse or better depending on the OS,
 the resolution, or on their own mood...who knows, I like them to be
 smaller, you can tweak this section to accommodate them to your
-computer, commenting this make Sabaki to use the original ones.*/
+computer, commenting this makes Sabaki to use the original ones.*/
 					
 					 .goban .row li.hoshi::after {
 					content: '';

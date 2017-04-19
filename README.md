@@ -78,7 +78,7 @@
 	*****************************************************************
 	
 	Unfortunately this is the best I can do with my "expertise"
-	but it´s is enough for my purposes, so I consider this project
+	but it´s enough for my purposes, so I consider this project
 	as "finished", only changes will be made if it performs very bad
 	in Linux (last changes not tested).
 	If you improved it´s behabour, please let me Know.
